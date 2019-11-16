@@ -15,4 +15,4 @@ I practiced the following NLP procedures on them:
   <li>Text Generation (didnt work out that well, but was fun xD)</li>
 </ol>
 
-#### This is purely for learning I have no intention to defame any channel or person, All the results that appear are not endorsed and expected to be exactly true due to lack of data collection time.
+#### This is purely for learning I have no intention to defame any channel or person, All the results that appear are not endorsed and are not expected to be exactly true due to lack of data collection time.
